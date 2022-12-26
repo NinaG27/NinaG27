@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinaG27
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning TestCafe
+- 👀 I’m interested in Fronted development
+- 🌱 I’m currently learning Vue, JS, React, Node js and Java
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me ninicag@gmail.com
 
