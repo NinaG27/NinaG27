@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinaG27
 - 👀 I’m interested in Computer science 
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me nina.gligorijevic27@gmail.com
 
